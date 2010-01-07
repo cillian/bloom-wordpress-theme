@@ -113,6 +113,9 @@ body {
 #content_right a {
   color: #fff;
 }
+#content_right #text-3 h2 {
+  color: #FFF;
+}
 
 /* footer */
 
@@ -217,12 +220,6 @@ a.button_link:hover {
 
 h2.widgettitle {
    margin-bottom: 15px;
-}
-
-/* action */
-
-#content_right #text-3 h2 {
-  color: #FFF;
 }
 
 /* Opt-In Plugin  */
