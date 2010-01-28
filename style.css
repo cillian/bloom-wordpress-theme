@@ -13,14 +13,14 @@ body {
 
 #header {
   height: 170px;
-  background: url('../bloom/images/crowd.jpg') no-repeat 597px -12px;
+  background: url('header_crowd.jpg') no-repeat 597px -12px;
   margin-bottom: 30px;
   position: relative;
 }
 
 #logo {
   display: block;
-  background: url('../bloom/images/logo.gif') no-repeat;
+  background: url('header_logo.gif') no-repeat;
   position: absolute;
   top: 20px;
   left: 20px;
